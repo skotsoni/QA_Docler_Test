@@ -14,8 +14,8 @@ REQ-UI-05 | When I click on the Form button, I should get navigated to the Form 
 REQ-UI-06 | When I click on the Form button, it should turn to active status						
 REQ-UI-07 | When I click on the Error button, I should get a 404 HTTP response code
 REQ-UI-08 | When I click on the UI Testing button, I should get navigated to the Home page
-REQ-UI-09 | The following text should be visible on the Home page in <h1> tag: "Welcome to the Docler Holding QA Department"
-REQ-UI-10 | The following text should be visible on the Home page in <p> tag: "This site is dedicated to perform some exercises and demonstrate automated web testing."
+REQ-UI-09 | The following text should be visible on the Home page in <h1>tag: "Welcome to the Docler Holding QA Department"
+REQ-UI-10 | The following text should be visible on the Home page in <p>tag: "This site is dedicated to perform some exercises and demonstrate automated web testing."
 REQ-UI-11 | On the Form page, a form should be visible with one input box and one submit button
 REQ-UI-12 | On the Form page, if you type <value> the input field and submit the form, you should get redirect to the Hello page, and the following text should appear: <result>
   
