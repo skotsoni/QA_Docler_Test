@@ -21,7 +21,7 @@ REQ-UI-12 | On the Form page, if you type <value> the input field and submit the
   
 REQ-UI-12 Examples
 
-<value>   |   <result>
+value     |   result
 ----------|----------
 John      |   Hello John!
 Sophia    |   Hello Sophia!
