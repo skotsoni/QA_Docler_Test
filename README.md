@@ -29,4 +29,4 @@ Emily     |   Hello Emily!
 
 The project is implemented in two ways:
 1. Gherkin **.feature** file 
-2. C# automated test (created in Microsoft Visual Studio v.15.5.3). Each class file represents a web page (Home, Form, Ui Testing, Error). Program.cs is the actual test case.
+2. C# automated test (created in Microsoft Visual Studio v.15.5.3). Each class file represents a web page (Home, Form, Ui Testing, Error). **Program.cs** is the actual test case.
