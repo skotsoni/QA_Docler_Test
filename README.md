@@ -4,8 +4,8 @@
 The project consists of 12 requirements that cover the functionality of [this web page](http://uitest.duodecadits.com).
 These requirements are:
 
-REQ_ID | REQ_DESC
--------|-------
+REQ_ID    | REQ_DESC
+----------|----------
 REQ-UI-01 | The Title should be "UI Testing Site" on every site
 REQ-UI-02 | The Company Logo should be visible on every site
 REQ-UI-03 | When I click on the Home button, I should get navigated to the Home page
@@ -21,7 +21,6 @@ REQ-UI-12 | On the Form page, if you type <value> the input field and submit the
   
 REQ-UI-12 Examples
 <value>   |   <result>
-============================
 John      |   Hello John!
 Sophia    |   Hello Sophia!
 Charlie   |   Hello Charlie!
