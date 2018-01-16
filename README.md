@@ -18,9 +18,9 @@ REQ-UI-09 | The following text should be visible on the Home page in h1 tag: "We
 REQ-UI-10 | The following text should be visible on the Home page in p tag: "This site is dedicated to perform some exercises and demonstrate automated web testing."
 REQ-UI-11 | On the Form page, a form should be visible with one input box and one submit button
 REQ-UI-12 | On the Form page, if you type <value> the input field and submit the form, you should get redirect to the Hello page, and the following text should appear: <result>
-  
-REQ-UI-12 Examples
+Examples
 <value>   |   <result>
+----------|----------
 John      |   Hello John!
 Sophia    |   Hello Sophia!
 Charlie   |   Hello Charlie!
